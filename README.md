@@ -6,3 +6,4 @@ This repository is a collection of different Bash projects.
 
 - [2023-12-02 - is-installed](is-installed/)
 - [2024-05-16 - prompt-tricks](prompt-tricks/)
+- [2024-05-21 - ping-address](ping-address/)
