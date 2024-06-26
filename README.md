@@ -10,3 +10,4 @@ This repository is a collection of different Bash projects.
 - [2024-05-26 - csv-cleanup](csv-cleanup/)
 - [2024-06-21 - loop-number-list](loop-number-list/)
 - [2024-06-26 - loop-multiple-emails](loop-multiple-emails/)
+- [2024-06-26 - bubblesort](bubblesort/)
