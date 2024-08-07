@@ -12,3 +12,4 @@ This repository is a collection of different Bash projects.
 - [2024-06-26 - loop-multiple-emails](loop-multiple-emails/)
 - [2024-06-26 - bubblesort](bubblesort/)
 - [2024-08-07 - http-request](http-request/)
+- [2024-08-07 - ufw-firewall-rules](ufw-firewall-rules/)
