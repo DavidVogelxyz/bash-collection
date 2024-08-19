@@ -14,3 +14,4 @@ This repository is a collection of different Bash projects.
 - [2024-08-07 - http-request](http-request/)
 - [2024-08-07 - ufw-firewall-rules](ufw-firewall-rules/)
 - [2024-08-14 - fibonacci](fibonacci/)
+- [2024-08-19 - splitting-lists](splitting-lists/)
