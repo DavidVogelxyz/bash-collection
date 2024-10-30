@@ -18,3 +18,4 @@ This repository is a collection of different Bash projects.
 - [2024-08-21 - counting and associative-arrays](counting-and-associative-arrays/)
 - [2024-08-21 - ufw-firewall-rules_v2](ufw-firewall-rules/)
 - [2024-10-26 - file-permissions](file-permissions/)
+- [2024-10-29 - error-handling](error-handling/)
